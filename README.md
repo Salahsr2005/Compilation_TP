@@ -280,5 +280,5 @@ If you use this implementation in academic work, please cite:
 ---
 
 **Maintained by:** [Your Name/Organization]  
-**Contact:** [your.email@domain.com]  
-**Documentation:** [Full documentation](./DOCUMENTATION.md)
+**Contact:** salah.serir@etu.univ-batna2.dz  
+**Documentation:** [Full documentation](./Epsilon-NFA%20to%20NFA%20Converter%20Documentation.pdf)
